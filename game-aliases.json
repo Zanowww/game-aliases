@@ -1,4 +1,5 @@
 {
+  "argi": [ 
   "mc": "Minecraft",
   "valo": "VALORANT",
   "lol": "League of Legends",
@@ -33,4 +34,5 @@
   "pubg": "PUBG: BATTLEGROUNDS",
   "trackmania": "Trackmania",
   "bg3": "Baldur's Gate 3"
+    }
 }
